@@ -80,11 +80,6 @@ public class treeTraversals {
 		//for max->return{ 1+Math.max(lefttlength, rightlength); }
 	}
 	
-	
-	
-	
-	
-	
 	//printing level-order-in_reverse.
 	public static void print_in_reverse(BinaryTree a){
 		Queue<BinaryTree> q= new LinkedList<BinaryTree>();
